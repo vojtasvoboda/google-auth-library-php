@@ -2,6 +2,13 @@
 
  * [feat]: add support for Firebase v6.0 (#391)
 
+## [1.35.0](https://github.com/googleapis/google-auth-library-php/compare/v1.34.0...v1.35.0) (2024-01-04)
+
+
+### Features
+
+* Add expires_in and token_type to ServiceAccountJwtAccessCredentials ([#513](https://github.com/googleapis/google-auth-library-php/issues/513)) ([ee2436d](https://github.com/googleapis/google-auth-library-php/commit/ee2436da42bcf3b2ee09ec8d9eda086293c3a3d9))
+
 ## [1.34.0](https://github.com/googleapis/google-auth-library-php/compare/v1.33.0...v1.34.0) (2024-01-03)
 
 
